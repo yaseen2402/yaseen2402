@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaseen2402
+- 👋 Hi, I’m Yaseen
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me discord: ace#8055
