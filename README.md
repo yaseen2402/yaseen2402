@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yaseen
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anything 
+- 🌱 I’m currently learning RAG
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me discord: ace8055 | myaseen2402@gmail.com 
 
 <!---
