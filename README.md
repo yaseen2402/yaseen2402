@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yaseen
-- 🌱 I’m currently learning transformers
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me discord: ace8055 | myaseen2402@gmail.com 
 
